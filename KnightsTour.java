@@ -1,7 +1,5 @@
 /*
  * Rahul Mody
- * CS 114 101
- * 31271851
  */
 
 public class KnightsTour
